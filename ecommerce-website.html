@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Designs Valley</title>
+    <link rel="icon" type="image/x-icon" href="assets/images/logo/fav-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Syne:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/lenis.css">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responcive.css">
+</head>
+
+<body class="ecommerce-website">
+
+    <!-- ========================= PRELOADER START ========================= -->
+    <div class="ddl-preloader" id="ddlPreloader">
+        <div class="ddl-preloader-bg"></div>
+        <div class="ddl-preloader-visual">
+            <svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="ddl-preloader-ring">
+                <circle cx="100" cy="100" r="86" fill="none" stroke="url(#ddlRingGrad)" stroke-width="2" stroke-dasharray="8 10"></circle>
+                <circle cx="100" cy="100" r="60" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"></circle>
+                <defs>
+                    <lineargradient id="ddlRingGrad" x1="0" y1="0" x2="1" y2="1">
+                        <stop offset="0%" stop-color="#fd1676"></stop>
+                        <stop offset="100%" stop-color="#a055b1"></stop>
+                    </lineargradient>
+                </defs>
+            </svg>
+        </div>
+        <div class="ddl-preloader-logo">
+            <p class="ddl-logo-text" id="ddlLogoText">Web Designs Valley</p>
+            <div class="ddl-preloader-count"><span id="ddlCounter">0</span><em>%</em></div>
+        </div>
+        <div class="ddl-preloader-bar"><span id="ddlBar"></span></div>
+    </div>
+    <div class="ddl-preloader-mask" id="ddlMask"></div>
+    <!-- ========================= PRELOADER END ========================= -->
+
+    <!-- ========================= CUSTOM CURSOR START ========================= -->
+    <div class="ddl-cursor" id="ddlCursorDot"></div>
+    <div class="ddl-cursor-ring" id="ddlCursorRing"><span>View</span></div>
+    <!-- ========================= CUSTOM CURSOR END ========================= -->
+
+    <!-- ========================= SCROLL PROGRESS BAR ========================= -->
+    <div class="ddl-scroll-progress" id="ddlScrollProgress"></div>
+
+    <div class="wrapper">
+        <!-- HEADER START -->
+        <header class="header">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-3 col-md-6 col-6">
+                        <div class="site-logo">
+                            <a href="index.html">
+                                <img decoding="async" src="assets/images/logo/newlogo.png" alt="Web Designs Valley">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-lg-block d-none">
+                        <div class="header-menu">
+                            <ul>
+                                <li><a href="index.html" class="ddl-nav-link"><span>Home</span></a></li>
+                                <li><a href="about-us.html" class="ddl-nav-link"><span>About Us</span></a></li>
+                                <li><a href="services.html" class="ddl-nav-link"><span>Services</span></a></li>
+                                <li><a href="our-work.html" class="ddl-nav-link"><span>Portfolio</span></a></li>
+                                <li><a href="contact.html" class="ddl-nav-link"><span>Contact Us</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-6">
+                        <div class="header-btn text-end d-flex align-items-center justify-content-end">
+                            <a href="contact.html" class="web-btn d-none d-lg-inline-flex">
+                                Start Your Project
+                                <div class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewbox="0 0 20 20" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.17613 0H18.8235C19.1356 0 19.4348 0.123952 19.6555 0.344587C19.8761 0.565223 20 0.864469 20 1.17649V18.8239C20 19.1359 19.8761 19.4352 19.6555 19.6558C19.4348 19.8765 19.1356 20.0004 18.8235 20.0004C18.5115 20.0004 18.2123 19.8765 17.9916 19.6558C17.771 19.4352 17.6471 19.1359 17.6471 18.8239V4.01577L2.44321 19.2201C2.22019 19.4279 1.92521 19.5411 1.62042 19.5357C1.31562 19.5303 1.02482 19.4069 0.809264 19.1913C0.59371 18.9757 0.470238 18.6849 0.46486 18.3801C0.459482 18.0754 0.572619 17.7804 0.780435 17.5573L15.9843 2.35299H1.17613C0.864103 2.35299 0.564856 2.22904 0.344221 2.0084C0.123585 1.78777 -0.000366211 1.48852 -0.000366211 1.17649C-0.000366211 0.864469 0.123585 0.565223 0.344221 0.344587C0.564856 0.123952 0.864103 0 1.17613 0Z" fill="white"></path>
+                                    </svg>
+                                </div>
+                            </a>
+                            <!-- MOBILE MENU TOGGLE (hamburger) -->
+                            <button type="button" class="ddl-burger d-lg-none" id="ddlBurger" aria-label="Open menu" aria-expanded="false" aria-controls="ddlMobileNav">
+                                <span></span><span></span><span></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- HEADER END -->
+        <!-- ========================= MOBILE NAV DRAWER ========================= -->
+        <div class="ddl-mobile-nav" id="ddlMobileNav">
+            <div class="ddl-mobile-nav-head">
+                <div class="site-logo">
+                    <a href="index.html">
+                        <img decoding="async" src="assets/images/logo/newlogo.png" alt="Web Designs Valley">
+                    </a>
+                </div>
+                <button type="button" class="ddl-mobile-close" id="ddlMobileClose" aria-label="Close menu">
+                    <svg viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M18 6 6 18M6 6l12 12" stroke="#fff" stroke-width="2" stroke-linecap="round"></path>
+                    </svg>
+                </button>
+            </div>
+            <ul class="ddl-mobile-nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="our-work.html">Portfolio</a></li>
+                <li><a href="pricing-packages.html">Pricing</a></li>
+                <li><a href="testimonial.html">Testimonial</a></li>
+                <li><a href="faqs.html">FAQs</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+            <div class="ddl-mobile-nav-btn">
+                <a href="contact.html" class="web-btn">Start Your Project</a>
+            </div>
+        </div>
+        <div class="ddl-mobile-nav-overlay" id="ddlMobileOverlay"></div>
+<!-- PAGE HERO START -->
+<section class="page-hero relative hidden" style="background-color: var(--sec-bg);">
+    <div class="bg-image">
+        <img decoding="async" src="assets/images/landing/banner-bg.webp" alt="">
+    </div>
+    <div class="container page-hero-content">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-8">
+                <h1 class="web-title white">Online Stores Designed To Convert Browsers Into Buyers</h1>
+                <p class="white py-20">Fast, secure ecommerce websites with clean product pages, smooth checkout, and full CMS control over inventory and orders.</p>
+                <div class="breadcrumb-nav justify-content-center">
+                    <a href="index.html">Home</a>
+                    <span>/</span>
+                    <a href="services.html">Services</a>
+                    <span>/</span>
+                    <a href="ecommerce-website.html">Ecommerce Website</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- PAGE HERO END -->
+
+<!-- SERVICE INTRO START -->
+<section class="py-140">
+    <div class="container">
+        <div class="row align-items-center cust-gap">
+            <div class="col-lg-5">
+                <div class="brand-mock" data-ddl-reveal="" data-tilt="" style="width:100%;">
+                    <div class="brand-mark">DDL</div>
+                    <div class="browser-line"></div>
+                    <div class="browser-line"></div>
+                    <div class="browser-line short"></div>
+                    <div class="brand-swatches">
+                        <span style="background: var(--btn-bg);"></span>
+                        <span style="background: var(--c1);"></span>
+                        <span style="background: var(--c3);"></span>
+                    </div>
+                    <div class="browser-line"></div>
+                    <div class="browser-line short"></div>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <span class="section-head-badge dark"><span></span>Ecommerce Website</span>
+                <h2 class="web-title">What's Included In Our Ecommerce Website Service</h2>
+                <p style="font-size: var(--fs-18); line-height: 1.8; color: var(--c6); margin-top: var(--space-16);">We design ecommerce experiences around one goal: turning visits into sales. That means fast product pages, frictionless checkout, and a backend your team can manage without needing a developer for every product update.</p>
+                <ul class="feature-list">
+                    <li><span class="tick"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17l-5-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg></span> Custom storefront design</li>
+                    <li><span class="tick"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17l-5-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg></span> Secure payment gateway integration</li>
+                    <li><span class="tick"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17l-5-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg></span> Product & inventory management (CMS)</li>
+                    <li><span class="tick"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17l-5-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg></span> Mobile-optimised checkout flow</li>
+                    <li><span class="tick"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17l-5-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg></span> Discount codes & promotions support</li>
+                    <li><span class="tick"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17l-5-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg></span> Shipping & tax configuration</li>
+                </ul>
+                <div class="banner-btn">
+                    <a href="contact.html" class="web-btn">
+                        Start Your Project
+                        <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewbox="0 0 20 20" fill="none">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M1.17613 0H18.8235C19.1356 0 19.4348 0.123952 19.6555 0.344587C19.8761 0.565223 20 0.864469 20 1.17649V18.8239C20 19.1359 19.8761 19.4352 19.6555 19.6558C19.4348 19.8765 19.1356 20.0004 18.8235 20.0004C18.5115 20.0004 18.2123 19.8765 17.9916 19.6558C17.771 19.4352 17.6471 19.1359 17.6471 18.8239V4.01577L2.44321 19.2201C2.22019 19.4279 1.92521 19.5411 1.62042 19.5357C1.31562 19.5303 1.02482 19.4069 0.809264 19.1913C0.59371 18.9757 0.470238 18.6849 0.46486 18.3801C0.459482 18.0754 0.572619 17.7804 0.780435 17.5573L15.9843 2.35299H1.17613C0.864103 2.35299 0.564856 2.22904 0.344221 2.0084C0.123585 1.78777 -0.000366211 1.48852 -0.000366211 1.17649C-0.000366211 0.864469 0.123585 0.565223 0.344221 0.344587C0.564856 0.123952 0.864103 0 1.17613 0Z" fill="white"></path>
+                            </svg></div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- SERVICE INTRO END -->
+
+<!-- WHY CHOOSE US START -->
+<section class="py-100 mx-3 sec-bg radius">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-7">
+                <div class="pricing-head text-center" data-ddl-reveal="">
+                    <h2 class="web-title white">Why Choose Web Designs Valley For Ecommerce Website</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row cust-gap py-60">
+            <div class="col-lg-4 col-md-6">
+                <div class="icon-box-card" data-ddl-reveal="" data-tilt="">
+                    <h4>Conversion-First Design</h4>
+                    <p>Every product page and checkout step is designed to reduce drop-off.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="icon-box-card" data-ddl-reveal="" data-tilt="">
+                    <h4>You Manage Everything</h4>
+                    <p>Add products, run promotions and manage orders without touching code.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="icon-box-card" data-ddl-reveal="" data-tilt="">
+                    <h4>Secure By Default</h4>
+                    <p>PCI-compliant payment processing and regular security updates.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- WHY CHOOSE US END -->
+
+<!-- PROCESS START -->
+<section class="process py-140">
+    <div class="container">
+        <div class="row align-items-center justify-content-between cust-gap">
+            <div class="col-lg-6 col-12">
+                <div class="pricing-head">
+                    <h2 class="web-title">How We Deliver Your Ecommerce Website Project</h2>
+                </div>
+            </div>
+            <div class="col-lg-5 col-12">
+                <div class="pricing-head">
+                    <p>The same disciplined four-stage process we use across every engagement.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row py-70 cust-gap">
+
+            <div class="col-lg-4 col-md-4 col-4">
+                <div class="process-item relative down">
+
+                    <div class="process-label top">
+                        <span></span>
+                        <h5>Define</h5>
+                    </div>
+
+                    <div class="process-line">
+                        <div class="dot"></div>
+                        <div class="line"></div>
+                        <div class="dot"></div>
+                    </div>
+
+                    <div class="process-label bottom">
+                        <span></span>
+                        <h5>Design</h5>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-4">
+                <div class="process-item relative up">
+
+                    <div class="process-label top">
+                        <span></span>
+                        <h5>Building</h5>
+                    </div>
+
+                    <div class="process-line">
+                        <div class="dot"></div>
+                        <div class="line"></div>
+                        <div class="dot"></div>
+                    </div>
+
+                    <div class="process-label bottom">
+                        <span></span>
+                        <h5>Validate</h5>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-4">
+                <div class="process-item relative">
+                    <div class="process-label top">
+                        <span></span>
+                        <h5>Iterate</h5>
+                    </div>
+
+                    <div class="process-line">
+                        <div class="dot"></div>
+                        <div class="line"></div>
+                        <div class="dot"></div>
+                    </div>
+
+                    <div class="process-label bottom">
+                        <span></span>
+                        <h5>Scale</h5>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- PROCESS END -->
+
+<!-- CTA BAND START -->
+<section class="py-60">
+    <div class="container">
+        <div class="cta-band" data-ddl-reveal="">
+            <h2 class="web-title">Ready To Start Your Ecommerce Website Project?</h2>
+            <p class="py-20">Tell us what you need and we'll reply with next steps within one business day.</p>
+            <a href="contact.html" class="web-btn" style="background: var(--c5); color: var(--c4); border: unset;">
+                Get A Free Quote
+                <div class="icon" style="filter: invert(1);"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewbox="0 0 20 20" fill="none">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.17613 0H18.8235C19.1356 0 19.4348 0.123952 19.6555 0.344587C19.8761 0.565223 20 0.864469 20 1.17649V18.8239C20 19.1359 19.8761 19.4352 19.6555 19.6558C19.4348 19.8765 19.1356 20.0004 18.8235 20.0004C18.5115 20.0004 18.2123 19.8765 17.9916 19.6558C17.771 19.4352 17.6471 19.1359 17.6471 18.8239V4.01577L2.44321 19.2201C2.22019 19.4279 1.92521 19.5411 1.62042 19.5357C1.31562 19.5303 1.02482 19.4069 0.809264 19.1913C0.59371 18.9757 0.470238 18.6849 0.46486 18.3801C0.459482 18.0754 0.572619 17.7804 0.780435 17.5573L15.9843 2.35299H1.17613C0.864103 2.35299 0.564856 2.22904 0.344221 2.0084C0.123585 1.78777 -0.000366211 1.48852 -0.000366211 1.17649C-0.000366211 0.864469 0.123585 0.565223 0.344221 0.344587C0.564856 0.123952 0.864103 0 1.17613 0Z" fill="white"></path>
+                    </svg></div>
+            </a>
+        </div>
+    </div>
+</section>
+<!-- CTA BAND END -->
+
+<!-- RELATED SERVICES START -->
+<section class="py-100">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-7">
+                <div class="pricing-head text-center" data-ddl-reveal="">
+                    <span class="section-head-badge dark"><span></span>Explore More</span>
+                    <h2 class="web-title">Related Services</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row cust-gap py-40">
+            <div class="col-lg-4 col-md-6">
+                <a href="web-development.html" class="related-service-card" data-ddl-reveal="" data-tilt="">
+                    <span>Service</span>
+                    <h4>Web Development</h4>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <a href="seo.html" class="related-service-card" data-ddl-reveal="" data-tilt="">
+                    <span>Service</span>
+                    <h4>SEO</h4>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <a href="hosting.html" class="related-service-card" data-ddl-reveal="" data-tilt="">
+                    <span>Service</span>
+                    <h4>Hosting</h4>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- RELATED SERVICES END -->
+
+
+<!-- CONTACT FORM CTA START -->
+<section class="form py-100 relative">
+    <div class="container">
+        <div class="row cust-gap justify-content-center">
+            <div class="col-lg-6">
+                <div class="form-head text-center">
+                    <h2 class="web-title">Let's build the future.</h2>
+                    <p>Tell us about your Ecommerce Website project and we'll get back to you within one business day.</p>
+                </div>
+            </div>
+            <div class="col-xl-9 col-lg-10 col-md-12 col-12">
+                <div class="contact-form-wrapper py-40 pb-0">
+                    <form>
+                        <div class="row cust-gap">
+                            <div class="col-lg-6">
+                                <div class="form-group relative">
+                                    <input type="text" class="form-control" placeholder="Enter your First Name">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group relative">
+                                    <input type="text" class="form-control" placeholder="Enter your Last Name">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group relative">
+                                    <input type="email" class="form-control" placeholder="Enter your Email Address">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group relative">
+                                    <input type="tel" class="form-control" placeholder="Phone Number">
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="form-group relative message-group">
+                                    <textarea class="form-control" rows="10" placeholder="Project Brief"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="submit-wrap text-center">
+                                    <button type="submit" class="web-btn" style="border: unset;">
+                                        Submit Now
+                                        <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewbox="0 0 20 20" fill="none">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M1.17613 0H18.8235C19.1356 0 19.4348 0.123952 19.6555 0.344587C19.8761 0.565223 20 0.864469 20 1.17649V18.8239C20 19.1359 19.8761 19.4352 19.6555 19.6558C19.4348 19.8765 19.1356 20.0004 18.8235 20.0004C18.5115 20.0004 18.2123 19.8765 17.9916 19.6558C17.771 19.4352 17.6471 19.1359 17.6471 18.8239V4.01577L2.44321 19.2201C2.22019 19.4279 1.92521 19.5411 1.62042 19.5357C1.31562 19.5303 1.02482 19.4069 0.809264 19.1913C0.59371 18.9757 0.470238 18.6849 0.46486 18.3801C0.459482 18.0754 0.572619 17.7804 0.780435 17.5573L15.9843 2.35299H1.17613C0.864103 2.35299 0.564856 2.22904 0.344221 2.0084C0.123585 1.78777 -0.000366211 1.48852 -0.000366211 1.17649C-0.000366211 0.864469 0.123585 0.565223 0.344221 0.344587C0.564856 0.123952 0.864103 0 1.17613 0Z" fill="white"></path>
+                                            </svg></div>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- CONTACT FORM CTA END -->
+
+<footer class="footer relative hidden" style="background: var(--footer-bg);">
+    <div class="bg-image">
+        <img loading="lazy" decoding="async" src="assets/images/landing/footer-bg.webp" alt="Web Designs Valley">
+    </div>
+    <div class="container z-index2 relative">
+        <div class="row cust-gap justify-content-between align-items-center py-120">
+            <div class="col-lg-8 col-md-12 col-12">
+                <div class="fot-top-head">
+                    <h2 class="web-title" style="color: var(--c5);">Ready to Build Something Extraordinary?</h2>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-9">
+                <div class="foot-top-con text-lg-right">
+                    <p class="web-color">Whether you're launching a new business, refreshing your brand, or building your next digital product, we're here to turn your ideas into reality.</p>
+                    <div class="banner-btn">
+                        <a href="contact.html" class="web-btn" style="translate: none; rotate: none; scale: none; transform: translate(4.5844px, 5.1px);">
+                            Call Now
+                            <div class="icon" bis_skin_checked="1">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewbox="0 0 20 20" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.17613 0H18.8235C19.1356 0 19.4348 0.123952 19.6555 0.344587C19.8761 0.565223 20 0.864469 20 1.17649V18.8239C20 19.1359 19.8761 19.4352 19.6555 19.6558C19.4348 19.8765 19.1356 20.0004 18.8235 20.0004C18.5115 20.0004 18.2123 19.8765 17.9916 19.6558C17.771 19.4352 17.6471 19.1359 17.6471 18.8239V4.01577L2.44321 19.2201C2.22019 19.4279 1.92521 19.5411 1.62042 19.5357C1.31562 19.5303 1.02482 19.4069 0.809264 19.1913C0.59371 18.9757 0.470238 18.6849 0.46486 18.3801C0.459482 18.0754 0.572619 17.7804 0.780435 17.5573L15.9843 2.35299H1.17613C0.864103 2.35299 0.564856 2.22904 0.344221 2.0084C0.123585 1.78777 -0.000366211 1.48852 -0.000366211 1.17649C-0.000366211 0.864469 0.123585 0.565223 0.344221 0.344587C0.564856 0.123952 0.864103 0 1.17613 0Z" fill="white"></path>
+                                </svg>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row cust-gap justify-content-between">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="site-logo">
+                    <a href="index.html">
+                        <img decoding="async" src="assets/images/logo/newlogo.png" alt="Web Designs Valley">
+                    </a>
+                    <p class="web-color">We help startups, businesses, and growing brands turn ambitious ideas into high-performing digital products. From strategy and UX to development, branding, animation, and marketing—we create experiences that people remember.</p>
+                </div>
+                <div class="social-links">
+                    <ul>
+                        <li><a href="ecommerce-website.html"><img loading="lazy" decoding="async" src="assets/images/icon/facebook.svg" alt="Web Designs Valley"></a></li>
+                        <li><a href="ecommerce-website.html"><img loading="lazy" decoding="async" src="assets/images/icon/twiter.svg" alt="Web Designs Valley"></a></li>
+                        <li><a href="ecommerce-website.html"><img loading="lazy" decoding="async" src="assets/images/icon/insta.svg" alt="Web Designs Valley"></a></li>
+                        <li><a href="ecommerce-website.html"><img loading="lazy" decoding="async" src="assets/images/icon/youtube.svg" alt="Web Designs Valley"></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-6 col-sm-6 col-12">
+                <div class="info-item">
+                    <span>Quick Links</span>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about-us.html">About </a></li>
+                        <li><a href="our-work.html">Our Work</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="testimonial.html">Testimonial</a></li>
+                        <li><a href="pricing-packages.html">Pricing</a></li>
+                        <li><a href="faqs.html">FAQs</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-6  col-12">
+                <div class="info-item">
+                    <span>Services</span>
+                    <ul>
+                        <li><a href="animation.html">Animation</a></li>
+                        <li><a href="app-development.html">App Development</a></li>
+                        <li><a href="branding.html">Branding</a></li>
+                        <li><a href="content-writing.html">Content Writing</a></li>
+                        <li><a href="cv-writing.html">Cv Writing</a></li>
+                        <li><a href="ecommerce-website.html">Ecommerce-Website</a></li>
+                        <li><a href="hosting.html">Hosting</a></li>
+                        <li><a href="logo-design.html">Logo Design</a></li>
+                        <li><a href="seo.html">Seo</a></li>
+                        <li><a href="web-development.html">Web Development</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="info-item contact-box">
+                    <span>Contact Info</span>
+
+                    <ul>
+                        <li><a href="tel:+447988580376">+44 7988 580376</a></li>
+                        <li><a href="mailto:info@webdesignsvalley.com">info@webdesignsvalley.com</a></li>
+                        <li><span>5 South Charlotte Street, Edinburgh, Scotland, EH2 4AN</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="row align-items-center">
+                <div class="col-lg-8 col-md-8 col-sm-6 col-12">
+                    <div class="fot-bottom-content">
+                        <p class="white">© 2026 Web Designs Valley. All Rights Reserved</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <div class="footer-bottom text-right">
+                        <ul>
+                            <li><a href="term.html" style="color: var(--c5);">Terms & Conditions</a></li>
+                            <li><a href="privacy.html" style="color: var(--c5);">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</div>
+
+<!-- ========================= WHATSAPP BUTTON ========================= -->
+<a href="https://wa.me/07988580376" target="_blank" rel="noopener" class="ddl-whatsapp" aria-label="Chat on WhatsApp">
+    <svg viewbox="0 0 32 32" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16.004 0C7.164 0 0 7.163 0 16c0 2.82.738 5.566 2.14 7.99L0 32l8.2-2.106A15.94 15.94 0 0 0 16.004 32C24.84 32 32 24.837 32 16S24.84 0 16.004 0Zm0 29.09c-2.5 0-4.95-.672-7.09-1.945l-.508-.3-4.865 1.25 1.3-4.74-.33-.487A13.03 13.03 0 0 1 2.91 16C2.91 8.77 8.77 2.91 16.004 2.91 23.235 2.91 29.09 8.77 29.09 16c0 7.23-5.855 13.09-13.086 13.09Zm7.17-9.79c-.393-.197-2.323-1.146-2.684-1.277-.36-.132-.622-.197-.884.198-.262.394-1.014 1.276-1.243 1.54-.23.263-.458.296-.85.098-.393-.197-1.658-.61-3.157-1.947-1.167-1.04-1.955-2.325-2.184-2.72-.23-.394-.024-.607.173-.804.177-.176.393-.46.59-.69.196-.23.262-.394.393-.657.13-.263.065-.493-.033-.69-.098-.197-.884-2.13-1.212-2.918-.318-.766-.643-.662-.884-.674l-.753-.013c-.262 0-.688.098-1.048.492-.36.394-1.374 1.343-1.374 3.276s1.407 3.8 1.604 4.062c.196.263 2.77 4.23 6.71 5.933.937.405 1.668.647 2.238.828.94.298 1.796.256 2.474.155.755-.113 2.323-.95 2.65-1.867.327-.918.327-1.704.229-1.867-.098-.164-.36-.263-.753-.46Z"></path>
+    </svg>
+</a>
+
+<!-- ========================= BACK TO TOP ========================= -->
+<button type="button" class="ddl-to-top" id="ddlToTop" aria-label="Back to top">
+    <svg viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 19V5M12 5l-7 7M12 5l7 7" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </svg>
+</button>
+
+<!-- =========================jQuery========================= -->
+<script src="assets/js/jquery-3.7.1.min.js" defer></script>
+<!-- =========================Bootstrap JS========================= -->
+<script src="assets/js/bootstrap.bundle.min.js" defer></script>
+<!-- =========================Swiper========================= -->
+<script src="assets/js/swiper-bundle.min.js" defer></script>
+<!-- =========================GSAP Plugins========================= -->
+<script src="assets/js/gsap.min.js" defer></script>
+<script src="assets/js/scrolltrigger.min.js" defer></script>
+<script src="assets/js/textplugin.min.js" defer></script>
+<!-- Lenis (smooth scroll) -->
+<script src="assets/js/lenis.min.js" defer></script>
+<!-- =========================Theme JS========================= -->
+<script src="assets/js/theme.js" defer></script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,352 @@
+Uri: https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Syne:wght@400..800&display=swap
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY0Ehpyw.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY0Ehpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY3Mhpyw.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY3Mhpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY58mpyw.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY58mpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY6Ympyw.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QvnQOs5beU3yksanMY6Ympyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKli.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIKli.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzaJ6li.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v70/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ6li.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\googlesans\v70\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ6li.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\s\syne\v24\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1432888622747-4eb9a8efeb07
+Content Type: image/png
+
+Uri: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1455390582262-044cdead277a
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1460925895917-afdab827c52f
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1496171367470-9ed9a91ea931
+Content Type: image/png
+
+Uri: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1498050108023-c5249f4df085
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1504384308090-c894fdcc538d
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1512941937669-90a1b58e7e9c
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1516321318423-f06f85e504b3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1516321497487-e288fb19713f
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1522199755839-a2bacb67c546?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1522199755839-a2bacb67c546
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1545239351-1141bd82e8a6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1551650975-87deedd944c3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1552664730-d307ca884978?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1552664730-d307ca884978
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\photo-1555066931-4365d14bab8c
+Content Type: image/jpeg
+
+Uri: https://www.dexterdesignlab.co.uk/
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/about-us.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\about-us.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/animation.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\animation.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/app-development.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\app-development.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/assets/css/bootstrap.min.css
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.dexterdesignlab.co.uk/assets/css/fancybox.css
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\css\fancybox.css
+Content Type: text/css
+
+Uri: https://www.dexterdesignlab.co.uk/assets/css/lenis.css
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\css\lenis.css
+Content Type: text/css
+
+Uri: https://www.dexterdesignlab.co.uk/assets/css/responcive.css
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\css\responcive.css
+Content Type: text/css
+
+Uri: https://www.dexterdesignlab.co.uk/assets/css/style.css
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.dexterdesignlab.co.uk/assets/css/swiper-bundle.min.css
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/icon/facebook.svg
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\icon\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/icon/insta.svg
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\icon\insta.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/icon/twiter.svg
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\icon\twiter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/icon/youtube.svg
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\icon\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/app-development.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\app-development.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/app-development2.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\app-development2.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/banner-bg.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\banner-bg.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/banner-img.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\banner-img.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/e-commerce.jpg
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\e-commerce.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/footer-bg.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\footer-bg.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo1.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo1.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo2.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo2.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo3.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo3.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo4.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo4.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo5.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo5.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo6.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo6.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/logo7.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\logo7.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/pack-bg.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\pack-bg.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/testimonial.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\testimonial.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/web-design.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\web-design.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/web-development.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\web-development.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/landing/web-development2.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\landing\web-development2.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/logo/fav-icon.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\logo\fav-icon.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/images/logo/logo.webp
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\images\logo\logo.webp
+Content Type: image/webp
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/gsap.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/jquery-3.7.1.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/lenis.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\lenis.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/scrolltrigger.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\scrolltrigger.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/swiper-bundle.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/textplugin.min.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\textplugin.min.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/js/theme.js
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\js\theme.js
+Content Type: text/javascript
+
+Uri: https://www.dexterdesignlab.co.uk/assets/video/video1.mp4
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\video\video1.mp4
+Content Type: video/mp4
+
+Uri: https://www.dexterdesignlab.co.uk/assets/video/video2.mp4
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\assets\video\video2.mp4
+Content Type: video/mp4
+
+Uri: https://www.dexterdesignlab.co.uk/branding.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\branding.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/contact.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\contact.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/content-writing.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\content-writing.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/cv-writing.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\cv-writing.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/ecommerce-website.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\ecommerce-website.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/faqs.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\faqs.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/hosting.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\hosting.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/logo-design.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\logo-design.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/our-work.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\our-work.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/pricing-packages.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\pricing-packages.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/privacy.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\privacy.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/seo.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\seo.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/services.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\services.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/term.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\term.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/testimonial.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\testimonial.php.htm
+Content Type: text/html
+
+Uri: https://www.dexterdesignlab.co.uk/web-development.php
+File Name: C:\Users\User\Desktop\Clone Websites\www.dexterdesignlab.co.uk\web-development.php.htm
+Content Type: text/html
+
